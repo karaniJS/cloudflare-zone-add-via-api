@@ -44,8 +44,8 @@ python add_domains.py
 
 ## 💡 Example Output
   ```yaml
-📤 Adding domain: omerkaranidenizoglu.com...
-✅ omerkaranidenizoglu.com added successfully. Zone ID: abcd1234efgh5678
+📤 Adding domain: example.com...
+✅ example.com added successfully. Zone ID: abcd1234efgh5678
 
  ```
 
