@@ -23,7 +23,7 @@ Install dependencies if needed:
   pip install requests
  ```
 ## 🔧 Configuration
-Open cf_api.py and edit the following lines with your own information:
+Open cf-api.py and edit the following lines with your own information:
 
   ```bash
   EMAIL = "your-email@example.com"
@@ -38,7 +38,7 @@ domain_list = [
 Once you’ve configured the file, run the script using Python:
 
   ```bash
-python add_domains.py
+python cd-api.py
 
  ```
 
