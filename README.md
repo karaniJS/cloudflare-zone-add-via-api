@@ -23,7 +23,7 @@ Install dependencies if needed:
   pip install requests
  ```
 ## 🔧 Configuration
-Open add_domains.py and edit the following lines with your own information:
+Open cf_api.py and edit the following lines with your own information:
 
   ```bash
   EMAIL = "your-email@example.com"
